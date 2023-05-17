@@ -59,7 +59,8 @@ procedure DFS(node):
             DFS(neighbor)
 ```
 c, Flow chart
-![alt text](https://techindetail.com/wp-content/uploads/2021/09/flowchat-depth-first-traversal-648x720.png.webp)
+
+![#FFFFFF](https://techindetail.com/wp-content/uploads/2021/09/flowchat-depth-first-traversal-648x720.png.webp)
 
 ## 7, Cài đặt
 Bước 1: Tạo một mảng để theo dõi các nút đã truy cập.
@@ -102,7 +103,8 @@ Bước 6: Lặp lại bước 5 cho đến khi hết ngăn xếp hoặc đến 
         Mark Z as visited
  ```
  - d, flow chart:
- ![alt text](https://techindetail.com/wp-content/uploads/2021/09/flowchart-breadth-first-traversal-471x720.png.webp)
+ - 
+ ![#FFFFFF](https://techindetail.com/wp-content/uploads/2021/09/flowchart-breadth-first-traversal-471x720.png.webp)
  
  - e, cài đặt
     - Bước 1: chọn bản đồ và địa điểm cần đến.
@@ -125,8 +127,8 @@ Sau đây là một vài ví dụ về bài tập đệ quy:
 - Sắp xếp mảng: Chọn một phần tử bất kỳ trong mảng làm chốt, rồi phân tách mảng thành hai phần: một phần chứa các phần tử nhỏ hơn hoặc bằng chốt và một phần chứa các phần tử lớn hơn chốt. Ta sử dụng đệ quy để sắp xếp hai phần này và ghép lại với nhau.
 - Duyệt và tìm kiếm trong cây nhị phân: Đệ quy thường được ứng dụng trong các cấu trúc dữ liệu như cây nhị phân, danh sách liên kết, ... Ta có thể giải đa số các bài tập liên quan đến các cấu trúc dữ liệu trên bằng đệ quy.
 
-> Infomation source: 
-> - GOOGLE.
+> research source: 
+> - geeksforgeeks.org.
 
 
 
