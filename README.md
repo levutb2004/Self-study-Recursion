@@ -60,7 +60,7 @@ procedure DFS(node):
 ```
 c, Flow chart
 
-![#FFFFFF](https://techindetail.com/wp-content/uploads/2021/09/flowchat-depth-first-traversal-648x720.png.webp)
+![#fcfafa](https://techindetail.com/wp-content/uploads/2021/09/flowchat-depth-first-traversal-648x720.png.webp) `#fcfafa`
 
 ## 7, Cài đặt
 Bước 1: Tạo một mảng để theo dõi các nút đã truy cập.
