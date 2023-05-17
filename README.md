@@ -60,7 +60,7 @@ procedure DFS(node):
 ```
 c, Flow chart
 
-![bg](https://techindetail.com/wp-content/uploads/2021/09/flowchat-depth-first-traversal-648x720.png.webp) 
+![DFS_flowchart](https://github.com/levutb2004/Self-study-Recursion/assets/52491685/d631f422-8d9f-4d3e-b7a1-5813c0a16b0a)
 
 ## 7, Cài đặt
 Bước 1: Tạo một mảng để theo dõi các nút đã truy cập.
@@ -104,7 +104,7 @@ Bước 6: Lặp lại bước 5 cho đến khi hết ngăn xếp hoặc đến 
  ```
  - d, flow chart:
  - 
- ![#FFFFFF](https://techindetail.com/wp-content/uploads/2021/09/flowchart-breadth-first-traversal-471x720.png.webp)
+![image](https://github.com/levutb2004/Self-study-Recursion/assets/52491685/e01b27ac-19f0-4411-b4d4-0ba1b95298e1)
  
  - e, cài đặt
     - Bước 1: chọn bản đồ và địa điểm cần đến.
